@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafidzfurqon
 - 👀 I’m interested in Design and coding
-- 🌱 I’m currently learning some languages like javascript
+- 🌱 I’m currently working on laravel also react and typescript.
 - 😄 Pronouns: hafidz
 - ⚡ Fun fact: i like journaling
 
