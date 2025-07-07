@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @hafidzfurqon
+- 👋 Hi, I’m @hafidzfurqon a passionate fullstack developer with hands-on experience in developing end-to-end web applications — from planning and UI development to backend   architecture, deployment, and maintenance.
 - 👀 I’m interested in Design and coding
-- 🌱 I’m currently working on laravel also react and typescript.
-- 😄 Pronouns: hafidz
 - ⚡ Fun fact: i like journaling
 
 <!---
