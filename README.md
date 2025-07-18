@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hafidzfurqon a passionate fullstack developer with hands-on experience in developing end-to-end web applications — from planning and UI development to backend   architecture, deployment, and maintenance.
+- 👋 Hi, I’m @hafidzfurqon a passionate frontend developer with hands-on experience in developing end-to-end web applications — from planning and UI development to deployment, and maintenance.
 - 👀 I’m interested in Design and coding
 - ⚡ Fun fact: i like journaling
 - there's no bug too big, no feature too complex, and no frontend/backend that can't be conquered 😎
