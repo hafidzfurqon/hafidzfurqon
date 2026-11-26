@@ -3,7 +3,7 @@
 - there's no bug too big, no feature too complex, and no frontend/backend that can't be conquered 😎
 I’m not just building apps — i’m building momentum.
 
-- ⚡ Fun fact: i like journaling
+- ⚡ Fun fact: i like journaling, and easy going person.
 
 <!---
 hafidzfurqon/hafidzfurqon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
